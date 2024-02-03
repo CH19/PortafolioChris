@@ -2,7 +2,7 @@
   "basics": {
     "name": "Christian La Cruz Cotua",
     "label": "Estudiante de economía, programación y data science",
-    "image": "/me.webp",
+    "image": "/CH19.webp",
     "email": "chcc190505@gmail.com",
     "phone": "+58 4125152243",
     "url": "https://midu.dev",
@@ -29,33 +29,12 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-       "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Alimentos Juanis",
+      "position": "Ayudante de cocina",
+      "url": "https://www.instagram.com/juanis.ve/",
+      "startDate": "2023-02-01",
+      "endDate": "2024-11-02",
+      "summary": "Ayudante de cocina en la elaboracion, empaquetado y distribucion de alimentos y postres sin gluten artesanales ",
       "highlights": [
         "Started the company"
       ]
@@ -73,17 +52,49 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "institution": "Universidad Centroccidental Lisandro Alvarado",
+    "url": "http://www.ucla.edu.ve/",
+    "area": "Licenciado en economía",
+    "studyType": "pregrado",
+    "startDate": "2023-02-01",
+    "endDate": null,
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
+  },
+  {
+    "institution": "Universidad Centroccidental Lisandro Alvarado",
+    "url": "http://www.ucla.edu.ve/",
+    "area": "Administracion de Finanzas con excel",
+    "studyType": "curso",
+    "startDate": "2022-07-01",
+    "endDate": "2023-08-01",
+    "score": "4.0",
+    "courses": [
+    ]
+  },
+  {
+    "institution": "CADIF1",
+    "url": "https://cadif1.com/",
+    "area": "Programacion Frontend Master",
+    "studyType": "carrera tecnica",
+    "startDate": "2022-06-15",
+    "endDate": "2023-11-12",
+    "score": "4.0",
+    "courses": [
+      "Pseint nivel I-IV",
+      "POO Nivel I-II",
+      "HTML y CSS nivel I-III",
+      "Javscript nivel I-IV",
+      "Preprocesadores css nivel I-IV",
+      "Vuejs nivel I",
+      "Reactjs nivel I",
+      "Angular nivel I-II",
+      "Ionicjs nivel I-II"
+    ]
+  }
+],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -205,25 +216,25 @@
   }],
   "projects": [
     {
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com.es%2Fanimales%2Fperros&psig=AOvVaw36_QYiF4Ip7Cbckb6Fbw1T&ust=1707070493020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD-mKXjj4QDFQAAAAAdAAAAABAE",
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "image": "/SPMUN.webp",
+      "name": "SPMUN VI edicion",
+      "isActive": false,
+      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro organizado el 25,26 y 27 de enero del 2024.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "+8 colegios y universidades participantes",
+        "Academia y pensamiento crítico",
+        "Desarrollo economico y etica"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.instagram.com/spmun_/?hl=es"
     },
     {
-      "image": "Cosa",
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "image": "/SonarDespierto.webp",
+      "name": "Soñar Despierto",
+      "isActive": false,
+      "description": "Fui parte como personal logistico del macro evento del movimiento soñar despierto durante diciembre de 2023",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "+150 regalos a niños",
+        "Logistico e interactivo"
       ],
       "url": "https://advent.js/dev"
     },

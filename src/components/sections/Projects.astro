@@ -4,16 +4,6 @@ import Section from "../Section.astro"
 import Image from "./image.astro"
 import { projects } from "@cv"
 ---
-<script >
-  import { projects } from "@cv"
-  const called = () => 
-  {setTimeout(()=> {
-  console.clear()
-  projects.forEach(e => console.log(e.image))
-}, 2000)
-  }
-  called()
-</script>
 <Section title="Proyectos">
   <ul>
     {
@@ -23,10 +13,10 @@ import { projects } from "@cv"
             <li>
               <article>
                 <header>
-                  {image && <Image image="https://img.freepik.com/foto-gratis/leon-melena-arcoiris-ojos-azules_1340-39421.jpg" />}
+                  {image && <Image image={image} />}
                   <h3>
                     <a href={url} title={`Ver el proyecto ${name}`}>
-                      {name}
+                      {name} 
                     </a>
                     {isActive && <span>•</span>}
                     {github && (
