@@ -1,34 +1,29 @@
 {
   "basics": {
     "name": "Christian La Cruz Cotua",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Estudiante de economía, programación y data science",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "chcc190505@gmail.com",
+    "phone": "+58 4125152243",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Soy estudiante de economía en la UCLA de barquisimeto, me apasiona el desarrollo de software web desde hace un año en la construccion de apps web con javascript, asimismo como el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "3001",
+      "city": "Barquisimeto",
+      "countryCode": "VE",
+      "region": "Venezuela/Lara"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Christian-la-cruz",
+        "url": "https://www.linkedin.com/in/christian-la-cruz-95a231258/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "CH19",
+        "url": "https://github.com/CH19"
       }
     ]
   },
@@ -59,7 +54,7 @@
       "name": "Hubii",
       "position": "Senior FrontEnd Developer",
       "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
+       "endDate": "2016-05-01",
       "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
       "highlights": [
         "Started the company"
@@ -210,6 +205,7 @@
   }],
   "projects": [
     {
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com.es%2Fanimales%2Fperros&psig=AOvVaw36_QYiF4Ip7Cbckb6Fbw1T&ust=1707070493020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD-mKXjj4QDFQAAAAAdAAAAABAE",
       "name": "mars.codes",
       "isActive": true,
       "description": "Historia interactiva con retos de programación para viajar a Marte",
@@ -220,6 +216,7 @@
       "url": "https://mars.codes"
     },
     {
+      "image": "Cosa",
       "name": "AdventJS",
       "isActive": true,
       "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
@@ -241,6 +238,7 @@
       "url": "https://codember.dev"
     },
     {
+  
       "name": "codi.link",
       "isActive": true,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",

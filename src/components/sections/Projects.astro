@@ -1,19 +1,29 @@
 ---
 import GitHub from "@/icons/GitHub.astro"
 import Section from "../Section.astro"
-
+import Image from "./image.astro"
 import { projects } from "@cv"
 ---
-
+<script >
+  import { projects } from "@cv"
+  const called = () => 
+  {setTimeout(()=> {
+  console.clear()
+  projects.forEach(e => console.log(e.image))
+}, 2000)
+  }
+  called()
+</script>
 <Section title="Proyectos">
   <ul>
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github }) => {
+        ({ url, description, highlights, name, isActive, github, image }) => {
           return (
             <li>
               <article>
                 <header>
+                  {image && <Image image="https://img.freepik.com/foto-gratis/leon-melena-arcoiris-ojos-azules_1340-39421.jpg" />}
                   <h3>
                     <a href={url} title={`Ver el proyecto ${name}`}>
                       {name}
@@ -53,7 +63,6 @@ import { projects } from "@cv"
     gap: 1rem;
     margin-inline: -16px;
   }
-
   article {
     border-radius: 8px;
     border: 1px solid #f2f2f2;

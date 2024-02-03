@@ -124,6 +124,7 @@ type Language =
   | string
 
 interface Projects {
+  image: string
   name: string
   isActive: boolean
   description: string
