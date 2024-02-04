@@ -6,7 +6,7 @@
     "email": "chcc190505@gmail.com",
     "phone": "+58 4125152243",
     "url": "https://midu.dev",
-    "summary": "Soy estudiante de economía en la UCLA de barquisimeto, me apasiona la oratoria, trabajar con jovenes y el desarrollo de software desde hace un año en la construccion de apps, asimismo el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
+    "summary": "Soy estudiante de economía en la UCLA de Barquisimeto. Me apasiona la oratoria, trabajar con jóvenes y el desarrollo de software desde hace un año en la construccion de apps, asimismo el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
     "location": {
       "address": "",
       "postalCode": "3001",
@@ -34,9 +34,9 @@
       "url": "https://www.instagram.com/juanis.ve/",
       "startDate": "2023-02-01",
       "endDate": "2024-11-02",
-      "summary": "Ayudante de cocina en la elaboracion, empaquetado asimismo distribucion de alimentos y postres sin gluten artesanales",
+      "summary": "Ayudante de cocina en la elaboración, empaquetado, y distribución de alimentos sin gluten y lácteos artesanales",
       "highlights": [
-        "Started the company"
+        "Mi primer trabajo"
       ]
     }
   ],
@@ -66,7 +66,7 @@
   {
     "institution": "Universidad Centroccidental Lisandro Alvarado",
     "url": "http://www.ucla.edu.ve/",
-    "area": "Administracion de Finanzas con excel",
+    "area": "Administración de finanzas con excel",
     "studyType": "curso",
     "startDate": "2022-07-01",
     "endDate": "2023-08-01",
@@ -75,9 +75,9 @@
     ]
   },
   {
-    "institution": "CADIF1",
+    "institution": "Cadif1",
     "url": "https://cadif1.com/",
-    "area": "Programacion Frontend Master",
+    "area": "Programación Frontend Master",
     "studyType": "carrera tecnica",
     "startDate": "2022-06-15",
     "endDate": "2023-11-12",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Trato con el publico",
+      "name": "Trato con el público",
       "level": "Mid",
       "keywords": [
         "Contacto con el publico", "Comunicacion", "PNL"
@@ -155,7 +155,17 @@
         "name": "Trabajo en equipo",
         "level": "Avanzado",
         "keywords": []
-      },
+    },
+    {
+      "name": "Honesto",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "Avanzado",
+      "keywords": []
+    },
       {
       "name": "Python",
       "level": "Mid",
@@ -169,11 +179,6 @@
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
-    },
-    {
-      "name": "Excel",
-      "level": "Avanzado",
-      "keywords": []
     },
     {
       "name": "HTML",
@@ -252,7 +257,7 @@
       "image": "/SonarDespierto.webp",
       "name": "Soñar Despierto",
       "isActive": false,
-      "description": "Fui parte como personal logistico del macro evento del movimiento soñar despierto durante diciembre de 2023 donde ayudamos a niños a pasar una navidad distinta",
+      "description": "Fuí parte como personal logístico del macro evento del movimiento soñar despierto durante Diciembre del 2023 donde ayudamos a niños a pasar una navidad especial",
       "highlights": [
         "+700 niños",
         "Logistico e interactivo"
