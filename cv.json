@@ -116,31 +116,45 @@
   }],
   "skills": [
     {
+      "name": "Oratoria",
+      "level": "Avanzado",
+      "keywords": [
+        "Oratoria", "Comunicacion", "Exposicion", "Relaciones Sociales"
+      ]
+    },
+    {
+      "name": "Trato con el publico",
+      "level": "Mid",
+      "keywords": [
+        "Contacto con el publico", "Comunicacion", "PNL"
+            ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Principiante",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Mid",
+      "keywords":[
+        "Logica de programacion", "Data science", "Backend", "Dessarrollo"
+      ]
+    },
+    {
       "name": "HTML",
-      "level": "Master",
+      "level": "Mid",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Mid",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
@@ -151,38 +165,13 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "name": ""
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
+      "name": "Git y Github",
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
@@ -200,7 +189,11 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Mid"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Beginner"
     }
   ],
   "interests": [{
@@ -219,10 +212,9 @@
       "image": "/SPMUN.webp",
       "name": "SPMUN VI edicion",
       "isActive": false,
-      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro organizado el 25,26 y 27 de enero del 2024.",
+      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro organizado el 25,26 y 27 de enero del 2024. Un evento academico que fomenta el debate, la oratoria, y el pensamiento crítico",
       "highlights": [
         "+8 colegios y universidades participantes",
-        "Academia y pensamiento crítico",
         "Desarrollo economico y etica"
       ],
       "url": "https://www.instagram.com/spmun_/?hl=es"
@@ -231,54 +223,25 @@
       "image": "/SonarDespierto.webp",
       "name": "Soñar Despierto",
       "isActive": false,
-      "description": "Fui parte como personal logistico del macro evento del movimiento soñar despierto durante diciembre de 2023",
+      "description": "Fui parte como personal logistico del macro evento del movimiento soñar despierto durante diciembre de 2023 donde ayudamos a mas de 150 niños a pasar una navidad distinta",
       "highlights": [
-        "+150 regalos a niños",
+        "+700 niños",
         "Logistico e interactivo"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://www.instagram.com/p/C1fGUNeu2KB/?hl=es&img_index=1"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "image": "/GithubSearch.webp",
+      "name": "Github Search",
+      "isActive": false,
+      "description": "Un buscador de usuarios en github donde puedes ver los perfiles, añadirlos a favoritos y seguir sus cuentas",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Vuejs",
+        "Programacion asincrona y compnetizada",
+        "html, css y javascript"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-  
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://ephemeral-cupcake-31b6b1.netlify.app/",
+      "github": "https://github.com/CH19/Github-Search?tab=readme-ov-file"
     }
-  ]
+      ]
 }
