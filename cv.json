@@ -6,7 +6,7 @@
     "email": "chcc190505@gmail.com",
     "phone": "+58 4125152243",
     "url": "https://midu.dev",
-    "summary": "Soy estudiante de economía en la UCLA de Barquisimeto. Me apasiona la oratoria, trabajar con jóvenes y el desarrollo de software desde hace un año en la construccion de apps, asimismo el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
+    "summary": "Soy estudiante de economía en la UCLA de Barquisimeto. Me apasiona la oratoria, trabajar con jóvenes y el desarrollo de software en la construccion de aplicaciones, asimismo el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
     "location": {
       "address": "",
       "postalCode": "3001",
@@ -55,7 +55,7 @@
     "institution": "Universidad Centroccidental Lisandro Alvarado",
     "url": "http://www.ucla.edu.ve/",
     "area": "Licenciado en economía",
-    "studyType": "pregrado",
+    "studyType": "carrera de pregrado",
     "startDate": "2023-02-01",
     "endDate": null,
     "score": "4.0",
@@ -244,9 +244,9 @@
   "projects": [
     {
       "image": "/SPMUN.webp",
-      "name": "SPMUN VI edicion",
+      "name": "SPMUN VI edición",
       "isActive": false,
-      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro el 25,26 y 27 de enero del 2024. Un evento academico que fomenta el debate, la oratoria, y el pensamiento crítico en temas internacionales",
+      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro el 25,26 y 27 de Enero del 2024. Un evento académico que fomenta el debate, la oratoria, y el pensamiento crítico en temas internacionales",
       "highlights": [
         "+8 colegios y universidades participantes",
         "Desarrollo economico y etica"
