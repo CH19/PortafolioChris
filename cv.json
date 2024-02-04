@@ -2,11 +2,11 @@
   "basics": {
     "name": "Christian La Cruz Cotua",
     "label": "Estudiante de economía, programación y data science",
-    "image": "/CH19.webp",
+    "image": "/sg_spmun.webp",
     "email": "chcc190505@gmail.com",
     "phone": "+58 4125152243",
     "url": "https://midu.dev",
-    "summary": "Soy estudiante de economía en la UCLA de barquisimeto, me apasiona el desarrollo de software web desde hace un año en la construccion de apps web con javascript, asimismo como el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
+    "summary": "Soy estudiante de economía en la UCLA de barquisimeto, me apasiona la oratoria, trabajar con jovenes y el desarrollo de software desde hace un año en la construccion de apps, asimismo el plantemiento de proyecciones con datos usando la estadística y herramientas de desarrollo como python",
     "location": {
       "address": "",
       "postalCode": "3001",
@@ -34,7 +34,7 @@
       "url": "https://www.instagram.com/juanis.ve/",
       "startDate": "2023-02-01",
       "endDate": "2024-11-02",
-      "summary": "Ayudante de cocina en la elaboracion, empaquetado y distribucion de alimentos y postres sin gluten artesanales ",
+      "summary": "Ayudante de cocina en la elaboracion, empaquetado asimismo distribucion de alimentos y postres sin gluten artesanales",
       "highlights": [
         "Started the company"
       ]
@@ -93,8 +93,20 @@
       "Angular nivel I-II",
       "Ionicjs nivel I-II"
     ]
+  }, 
+  {
+    "institution": "U. E. Colegio San Pedro",
+    "url": "https://www.colegiosanpedro.com.ve/",
+    "area": "Bachiller en ciencias",
+    "studyType": "Bachiller",
+    "startDate": "2018-09-01",
+    "endDate": "2022-07-01",
+    "score": "4.0",
+    "courses": [
+    ]
   }
 ],
+
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -130,18 +142,38 @@
             ]
     },
     {
-      "name": "MySQL",
+      "name": "Responsable",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Creativo",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+        "name": "Trabajo en equipo",
+        "level": "Avanzado",
+        "keywords": []
+      },
+      {
+      "name": "Python",
+      "level": "Mid",
+      "keywords":[
+        "Logica de programacion", "Data science", "Backend", "Dessarrollo"
+      ]
+    },
+    {
+      "name": "SQL",
       "level": "Principiante",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
-      "name": "Python",
-      "level": "Mid",
-      "keywords":[
-        "Logica de programacion", "Data science", "Backend", "Dessarrollo"
-      ]
+      "name": "Excel",
+      "level": "Avanzado",
+      "keywords": []
     },
     {
       "name": "HTML",
@@ -165,9 +197,6 @@
       ]
     },
     {
-      "name": ""
-    },
-    {
       "name": "Git y Github",
       "level": "Avanzado",
       "keywords": [
@@ -175,7 +204,7 @@
       ]
     },
     {
-      "name": "React",
+      "name": "Vuejs",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
@@ -212,7 +241,7 @@
       "image": "/SPMUN.webp",
       "name": "SPMUN VI edicion",
       "isActive": false,
-      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro organizado el 25,26 y 27 de enero del 2024. Un evento academico que fomenta el debate, la oratoria, y el pensamiento crítico",
+      "description": "Organice la Sexta edición del modelo de naciones unidas del colegio San Pedro el 25,26 y 27 de enero del 2024. Un evento academico que fomenta el debate, la oratoria, y el pensamiento crítico en temas internacionales",
       "highlights": [
         "+8 colegios y universidades participantes",
         "Desarrollo economico y etica"
@@ -223,7 +252,7 @@
       "image": "/SonarDespierto.webp",
       "name": "Soñar Despierto",
       "isActive": false,
-      "description": "Fui parte como personal logistico del macro evento del movimiento soñar despierto durante diciembre de 2023 donde ayudamos a mas de 150 niños a pasar una navidad distinta",
+      "description": "Fui parte como personal logistico del macro evento del movimiento soñar despierto durante diciembre de 2023 donde ayudamos a niños a pasar una navidad distinta",
       "highlights": [
         "+700 niños",
         "Logistico e interactivo"
@@ -238,7 +267,7 @@
       "highlights": [
         "Vuejs",
         "Programacion asincrona y compnetizada",
-        "html, css y javascript"
+        "HTML, CSS y Javascript"
       ],
       "url": "https://ephemeral-cupcake-31b6b1.netlify.app/",
       "github": "https://github.com/CH19/Github-Search?tab=readme-ov-file"
